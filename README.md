@@ -10,7 +10,7 @@ Customize your template easily as much as you want, you have tons of layout poss
 The template comes with lot HTML pages built using Bootstrap 3.3.5
 
 
-![Food and Restorent One Page Free Template](https://raw.githubusercontent.com/bootstrapthemesco/food-and-restaurant-free-one-page-bootstrap-template/master/food_&_restaurant.jpg)
+![Food and Restorent One Page Free Template](https://raw.githubusercontent.com/bootstrapthemesco/food-and-restaurant-free-one-page-bootstrap-template/master/food_restaurant.jpg)
 
 
 
